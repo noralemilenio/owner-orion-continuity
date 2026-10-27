@@ -8,6 +8,7 @@
 
 | Síntoma | Dónde empezar |
 | --- | --- |
+| Los tres agentes Windows no envían heartbeat | [Agentes Windows y recuperación](AGENTES-WINDOWS.md) |
 | Auri no ve Chrome/Windows VM102 | [Diagnóstico y reinicio AO-12](RECUPERACION-RAPIDA.md#1-windows-vm102--túnel-y-chrome) |
 | Túnel SSH caído | [Windows: tarea AO12-Tunnel](RECUPERACION-RAPIDA.md#1-windows-vm102--túnel-y-chrome) |
 | OrionHub no responde | [VM100: OrionHub](RECUPERACION-RAPIDA.md#2-vm100--orionhub) |
@@ -37,4 +38,4 @@
 - [AO-12 guía Windows / túnel seguro](https://github.com/noralemilenio/auri-orion-browser-bridge/blob/main/docs/AO12-GUIA-PORTATIL-ALE-Y-PC-NORMI.md)
 - [AO-12 ficha de infraestructura](https://github.com/noralemilenio/auri-orion-infrastructure/blob/main/docs/PROYECTOS/AO-12-BROWSER-BRIDGE-CIERRE-2026-10-17.md)
 
-**Estado:** guía y comprobador PowerShell publicados. No se ha realizado aquí un reinicio real ni una prueba operativa de los agentes Windows: hacerlo requiere ejecutar los comandos en sus máquinas.
+**Estado:** guías de agentes Windows, AO-12 y comprobador PowerShell publicados. No se ha realizado aquí un reinicio real ni una prueba operativa de los agentes Windows: hacerlo requiere ejecutar los comandos en sus máquinas.
